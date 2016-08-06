@@ -1,0 +1,14 @@
+.content-page {
+     margin-left: 0px;
+
+}
+
+.checkbox label::before {
+
+     visibility: hidden;
+}
+
+.checkbox {
+      padding-left: 0px;
+}
+

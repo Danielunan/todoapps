@@ -1,0 +1,32 @@
+{
+  "name": "todoApp",
+  "authors": [
+    "cengkuru <mcengkuru@gmail.com>"
+  ],
+  "description": "Todo List REST App",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+    "jquery": ">=1.7",
+    "noty": "~2.3.8",
+
+    "font-awesome": "~4.5.0",
+    "bootstrap": "~3.3.6",
+
+    "select2": "~4.0.1"
+
+  },
+  "resolutions": {
+    "jquery": "~2.1.1"
+  }
+}
