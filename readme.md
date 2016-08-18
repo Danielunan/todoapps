@@ -12,7 +12,8 @@ note: forgive me, i can't share todoapp using nosql because not accomplished yet
 
 todoapps mysql 
 [![28448112024_072b9eebe3_o.png](https://s3.postimg.org/v3gp0ur4j/28448112024_072b9eebe3_o.png)](https://postimg.org/image/rwm5h86of/)
-![alt tag](http://url/to/img.png)
- https://flic.kr/p/KRse8y
+[![28782966410_57feffcac5_o.png](https://s3.postimg.org/ah9fjzs6b/28782966410_57feffcac5_o.png)](https://postimg.org/image/guyin8x27/)
 
-todoapps nosql https://flic.kr/p/LeQsM7 https://flic.kr/p/L8qBBm
+todoapps nosql 
+[![29036267696_a854948574_o.png](https://s4.postimg.org/433wx4uct/29036267696_a854948574_o.png)](https://postimg.org/image/l3mt5t7e1/)
+[![28963715742_5bddd4f264_o.png](https://s3.postimg.org/h39epgzyr/28963715742_5bddd4f264_o.png)](https://postimg.org/image/6t6zq8a33/)
