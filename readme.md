@@ -1,13 +1,15 @@
-## Todo App
+simple to do list web application, i've built this as my research project compared database mysql and nosql using laravel.
 
-Simple Todo list web application 
+to install it, just "git clone https://github.com/Danielunan/todoapps.git" or download it it's ok
 
-## How to install
-* Access the .env file in the root and update the following variables depending on your server setting
+move your laravel file to localhost directory, and
 
- - DB_HOST=localhost
- - DB_DATABASE=
- - DB_USERNAME=
- - DB_PASSWORD=
+open terminal (OS X), command prompt (Windows), typing "composer install" and wait a few minutes, and
 
-* Since this is a laravel app just access the app from you console and run migrations. All necessary tables shall be created automatically
+after finished composer install, typing again "php artisan generate key" wait, and viola ready to use.
+
+note: forgive me, i can't share todoapp using nosql because not accomplished yet, still any bugs. i'm fixed as soon as possible.
+
+todoapps mysql https://flic.kr/p/KkS1A5 https://flic.kr/p/KRse8y
+
+todoapps nosql https://flic.kr/p/LeQsM7 https://flic.kr/p/L8qBBm
