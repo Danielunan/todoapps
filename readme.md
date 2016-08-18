@@ -10,6 +10,9 @@ after finished composer install, typing again "php artisan generate key" wait, a
 
 note: forgive me, i can't share todoapp using nosql because not accomplished yet, still any bugs. i'm fixed as soon as possible.
 
-todoapps mysql https://flic.kr/p/KkS1A5 https://flic.kr/p/KRse8y
+todoapps mysql 
+![todoapps mysql](https://flic.kr/p/KkS1A5)
+![alt tag](http://url/to/img.png)
+ https://flic.kr/p/KRse8y
 
 todoapps nosql https://flic.kr/p/LeQsM7 https://flic.kr/p/L8qBBm
